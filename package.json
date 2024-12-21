@@ -1,0 +1,23 @@
+{
+  "name": "mini-message-board",
+  "version": "1.0.0",
+  "description": "Mini messageboard",
+  "main": "source/app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesarAjruli/Mini-Message-Board.git"
+  },
+  "author": "Besar Ajruli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/BesarAjruli/Mini-Message-Board/issues"
+  },
+  "homepage": "https://github.com/BesarAjruli/Mini-Message-Board#readme"
+}
